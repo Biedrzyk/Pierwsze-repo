@@ -1,9 +1,27 @@
+/* Global */
+
 body {
     display: block;
+    font-family: Inconsolata;
 }
 
-
 p {
-    text-align: left;
     line-height: 20px;
+    text-align: center;
+}
+
+.main-title {
+    font-style: italic;
+    font-family: Signika;
+    margin-bottom: 20px; 
+}
+
+.subtitle {
+    font-weight: 700;
+    font-family: Signika;
+    margin-bottom: 50px;
+}
+
+.webbe {
+    margin: 0 auto;
 }
